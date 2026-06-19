@@ -1,3 +1,4 @@
+print("We are learning maths")
 lower = int(input("Lower number: "))
 upper = int(input("Upper number: "))
 counter = 0
